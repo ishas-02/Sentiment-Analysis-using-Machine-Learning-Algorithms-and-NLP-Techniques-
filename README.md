@@ -71,11 +71,12 @@ cd Sentiment-Analysis-using-Machine-Learning-Algorithms-and-NLP-Techniques-
 
 ---
 
-### 🐍 2️⃣ Create and activate a Python virtual environment
+### 🐍 2️⃣ Create and activate a Conda virtual environment
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+conda create -n pyvenv python=3.9
+conda activate pyvenv
+
 ```
 
 ---
