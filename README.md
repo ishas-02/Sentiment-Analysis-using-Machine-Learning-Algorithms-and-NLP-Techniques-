@@ -184,6 +184,3 @@ Use this project to explore how text can be transformed into meaningful, actiona
 
 ---
 
-
-[1]: https://www.elastic.co/what-is/sentiment-analysis?utm_source=chatgpt.com "What is sentiment analysis?"
-[2]: https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/?utm_source=chatgpt.com "Guide to Sentiment Analysis using Natural Language ..."
